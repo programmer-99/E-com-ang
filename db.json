@@ -1,0 +1,58 @@
+{
+  "seller": [
+    {
+      "name": "Usama",
+      "email": "usama@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "Star",
+      "email": "Star@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "usa3",
+      "password": "ffdffdf",
+      "email": "fdf",
+      "id": 4
+    },
+    {
+      "name": "usa3fsdf",
+      "password": "ffdffdf",
+      "email": "fdffsdf",
+      "id": 5
+    },
+    {
+      "name": "usa3fsdffadfdf",
+      "password": "ffdffdf",
+      "email": "fdffsdfff",
+      "id": 6
+    },
+    {
+      "name": "hamza",
+      "password": "ffdffdf",
+      "email": "fdffsdfff",
+      "id": 7
+    },
+    {
+      "name": "Muhammad Usama",
+      "password": "34",
+      "email": "czxcd",
+      "id": 8
+    },
+    {
+      "name": "askjasnsdasd",
+      "password": "dasd",
+      "email": "dasd",
+      "id": 9
+    },
+    {
+      "name": "ddf",
+      "password": "aad",
+      "email": "sa",
+      "id": 10
+    }
+  ]
+}
